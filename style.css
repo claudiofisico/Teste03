@@ -1,0 +1,23 @@
+body{
+text-align: center;
+
+}
+h2{									/* muda propriedades de h2  */
+	background-color: aqua;			/* muda cor de fundo		*/
+	color: blue;					/* muda cor da fonte		*/
+	font-family: sans-serif;		/* muda a fonte				*/
+}	
+p{									/* p = paragrafo			*/
+	font-size: 18px; 				/* tamanho da fonte			*/
+}
+img{								/* formatação da figura 	*/
+width: 150px;						/* tamanho da figura 		*/
+}
+.paragrafo-1{						/* p class sitado no index, aqui formatação	*/
+	color: red;						/* cor do texto   		*/
+	font-size: 20px;				/* tamanho da fonte   	*/
+	padding-top: 1px;				/* distancia do topo   	*/
+}
+.paragrafo-1{
+	background-color: blue;
+}
